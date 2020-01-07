@@ -1,0 +1,10 @@
+name: youtube_extractor
+version: 1.0.4
+author: SoundByte (Dominic Maas) <soundbyteuwp@gmail.com>
+description: YouTube Extractor is a dart and flutter library for extracting YouTube audio and video streams without the requirement of an API key.
+homepage: https://github.com/SoundByteOSS/youtube-extractor
+environment:
+  sdk: '>=2.0.0 <3.0.0'
+dependencies:
+  http: ^0.12.0
+  xml: ^3.2.3
